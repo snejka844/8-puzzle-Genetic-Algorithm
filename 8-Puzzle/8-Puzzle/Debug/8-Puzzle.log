@@ -1,0 +1,6 @@
+﻿  main.cpp
+g:\fmi\soz\8-puzzle\8-puzzle\world.h(59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+g:\fmi\soz\8-puzzle\8-puzzle\world.h(60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+g:\fmi\soz\8-puzzle\8-puzzle\world.h(64): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\fmi\soz\8-puzzle\8-puzzle\world.h(83): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  8-Puzzle.vcxproj -> G:\fmi\soz\8-Puzzle\Debug\8-Puzzle.exe
